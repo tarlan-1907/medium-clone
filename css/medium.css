@@ -1,0 +1,58 @@
+body{
+    font-family: Helvetica,'PT Serif', serif;
+}
+
+
+.bg-yellow{
+    background-color:#ffc017; 
+}
+
+.topborder{
+    margin-top: 55px;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+}
+
+h1{
+    font-size: 106px;
+    letter-spacing: -5.3px;
+    line-height: 95px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.photo{
+    height: 64%;
+    position: absolute;
+    right: -100px;
+    top: 60px;
+}
+
+
+.ikon{
+    width: 25px;
+    height: 25px;
+}
+
+.rightbutton{
+    font-size: 13px;
+    font-family: Helvetica;
+}
+
+.mediabutton{
+    text-align: center;
+    color: #757575;
+    height: 24px;
+    font-size: 13px;
+    background-color: #f2f2f2;
+    border: none;
+}
+
+
+
+.mediatext{
+    padding-right: 100px;
+}
+
+.media{
+    margin-right: 100px;
+}
